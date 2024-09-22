@@ -1,0 +1,10 @@
+# Игнорирование каталогов
+#.vscode/
+/VOCdevkit/
+/detect/*
+/datasets/my/*/*/*.*
+
+
+# Игнорирование файлов
+#.gitignore
+*.tar
